@@ -14,15 +14,15 @@
 // }
 // redius(8)
 
-function checkEvenOdd(num) { 
-    if (num % 2 == 0) {
-        console.log('this is an even number');
-    } else { 
-          console.log('this is an odd number');
-    }
-}
+// function checkEvenOdd(num) { 
+//     if (num % 2 == 0) {
+//         console.log('this is an even number');
+//     } else { 
+//           console.log('this is an odd number');
+//     }
+// }
 
-checkEvenOdd(7)
+// checkEvenOdd(7)
 
 
 // _
